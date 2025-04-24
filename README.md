@@ -35,3 +35,10 @@ A responsive wallet interface built using React and Tailwind CSS on the frontend
 
 - 🔄 **API Integration**  
   Seamless connection between frontend and backend using Axios or Fetch
+
+  ## 📽 Demo
+
+Watch the full demo here:   https://drive.google.com/file/d/1_2WMdFO49IfxLOKopnS7wExSMG6YvMf2/view?usp=sharing
+
+
+
