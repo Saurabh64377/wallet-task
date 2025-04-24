@@ -1,0 +1,21 @@
+# Root ignore
+.DS_Store
+Thumbs.db
+
+# Node Modules
+wallet/node_modules/
+backend/node_modules/
+
+# Env Files
+backend/.env
+
+
+# Logs
+*.log
+
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+
